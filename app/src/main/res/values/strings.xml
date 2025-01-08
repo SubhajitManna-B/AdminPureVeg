@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AdminPureVeg</string>
+    <string name="design_by_nsubha">Design by\nSubha</string>
+    <string name="pureveg">PureVeg</string>
+    <string name="email">Email</string>
+    <string name="app_logo">App logo</string>
+    <string name="or">Or</string>
+    <string name="password">Password</string>
+    <string name="continue_with">Continue With</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="default_web_client_id">16490435442-7tuikmf85pcuik0erddcoscd1ok5loie.apps.googleusercontent.com</string>
+</resources>
